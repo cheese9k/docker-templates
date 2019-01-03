@@ -10,7 +10,7 @@
   <Support>http://lime-technology.com/forum/index.php</Support>
   <Registry>https://registry.hub.docker.com/u/mace/cloudflare-ddns/</Registry>
   <GitHub>https://github.com/cheese9k/cloudflareddns</GitHub>
-  <Repository>cheese9k/copycat</Repository>
+  <Repository>cheese9k/cloudflareddns</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
     <Networking>

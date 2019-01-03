@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="utf-8"?>
 <Containers>
-  <Name>CloudFlare-DDNS</Name>
+  <Name>CFDynamic</Name>
   <Description>
     CloudFlare is a free DNS host that can act as a reverse proxy for websites. Its network protects, speeds up, and improves availability for a website or mobile application with a change in DNS.[br][br]
     [b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]
@@ -51,7 +51,10 @@
   <Category>Network:DNS</Category>
   <Changes>
     [center][font size=5]CloudFlare Change Log[/font][/center]
-
+	  
+    [font size=4]2019.01.03[/font]
+    - Updated to work with new CloudFlare API 4.
+	  
     [font size=4]2015.07.4[/font]
     - Script is now running as a service, will restart if (cloudflare api or ip "check" service is down).
 

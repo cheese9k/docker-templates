@@ -1035,10 +1035,10 @@
   },
   {  
     "type": 1,
-    "title": "unifi",
+    "title": "Unifi Controller",
     "description": null,
     "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/unifi-icon.png",
-    "image": "linuxserver/unifi:latest",
+    "image": "linuxserver/unifi-controller:latest",
     "category": ["Management", "Tools"],
     "platform": "linux",
     "ports": [  

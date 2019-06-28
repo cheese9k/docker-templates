@@ -1038,7 +1038,7 @@
     "title": "Unifi Controller",
     "description": null,
     "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/unifi-icon.png",
-    "image": "linuxserver/unifi-controller:latest",
+    "image": "linuxserver/unifi-controller",
     "category": ["Management", "Tools"],
     "platform": "linux",
     "ports": [  
